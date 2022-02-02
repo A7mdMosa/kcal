@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "124372868724",
+    "project_id": "kcal-app-9c924",
+    "storage_bucket": "kcal-app-9c924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124372868724:android:f40fac746e96641d5bfb21",
+        "android_client_info": {
+          "package_name": "com.a7mdmosa.kcal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124372868724-l6h0s7r8m8ltvsis8uc7n78pihbot3uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7d-D3kFcOchYeTfZktqt30GwfbMLE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124372868724-l6h0s7r8m8ltvsis8uc7n78pihbot3uf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124372868724-lpb5noql2haold2pf5e5e97j4jk38ccm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.a7mdmosa.kcalApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
